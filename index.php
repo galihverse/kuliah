@@ -27,7 +27,7 @@ $hasil = mysqli_query($conn, $getDataQuery);
         </div>
     </div>
     <div class="container">
-        <table class="table">
+        <table class="table table-dark table-striped" style="margin-top:30px">
             <thead>
                 <tr>
                     <th>NPM</th>
